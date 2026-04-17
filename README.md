@@ -2,7 +2,7 @@
 
 Use bitmap fonts directly in Aseprite!
 
-![Demo of adding text with a BMFont](./demo.gif)
+![Demo of adding text with a BMFont](./demo.png)
 
 Download from [itch.io](https://voycawojka.itch.io/bmfont-text-aseprite).
 
