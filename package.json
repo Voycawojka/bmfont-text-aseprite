@@ -1,0 +1,21 @@
+{
+  "name": "bmfont-text-aseprite",
+  "displayName": "BMFont Text",
+  "description": "Write text using bitmap fonts",
+  "version": "0.1",
+  "author": {
+    "name": "Voycawojka",
+    "url": "https://ideasalmanac.com/"
+  },
+  "contributors": ["Voycawojka"],
+  "publisher": "Voycawojka",
+  "license": "GNU GPLv3",
+  "categories": ["Scripts"],
+  "contributes": {
+    "scripts": [
+        {
+            "path": "./src/main.lua"
+        }
+    ]
+  }
+}
