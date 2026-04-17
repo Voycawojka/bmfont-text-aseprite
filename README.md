@@ -20,14 +20,14 @@ Download from [itch.io](https://voycawojka.itch.io/bmfont-text-aseprite).
 
 ## Where to get bitmap fonts?
 
-I made the plugin primarily for fonts made with [Calligro](https://calligro.ideasalmanac.com/).
-This way you can easily draw your own fonts any way you like.
-(when exporting from Calligro choose the TXT option)
+I made the plugin primarily for fonts made with *[Calligro](https://calligro.ideasalmanac.com/)*.
 
+This way you can easily draw your own fonts any way you like (when exporting from Calligro choose the TXT option).
 Having said that, the plugin should also work with BMFonts created with other software, like:
 - [AngelCode's BMFont](https://www.angelcode.com/products/bmfont/) 
 - [Hiero](https://libgdx.com/wiki/tools/hiero)
 - [ShoeBox](http://renderhjs.net/shoebox/)
+
 Those programs are meant for converting regular TTF fonts into bitmap fonts though. 
 You may just want to use the TTF fonts directly in those cases.
 
